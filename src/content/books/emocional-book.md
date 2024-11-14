@@ -4,7 +4,7 @@ author: Daniel Goleman
 img: emocional-book.jpg
 readtime: 330
 description: El fascinante informe de Daniel Goleman, desde las fronteras de la psicología y la neurociencia.
-buy:
+buy: 
   arg: https://www.mercadolibre.com.ar/la-inteligencia-emocional-de-goleman-daniel-editorial-vergara-2000/p/MLA21996569#polycard_client=search-nordic&searchVariation=MLA21996569&position=6&search_layout=stack&type=product&tracking_id=39100a2e-3e10-4536-b034-44b65d38b792&wid=MLA1365577846&sid=search
   usa: https://www.amazon.com/Emotional-Intelligence-Matter-More-than/dp/055309503X
 

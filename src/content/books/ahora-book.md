@@ -3,8 +3,8 @@ title: El poder del Ahora
 author:  Eckhart Tolle
 img: ahora-book.jpg
 readtime: 400
-description: en EL PODER DEL AHORA tendremos que dejar atrás nuestra mente analítica y su falso yo, el ego.
-buy:
+description: En EL PODER DEL AHORA tendremos que dejar atrás nuestra mente analítica y su falso yo, el ego.
+buy: 
   arg: https://www.mercadolibre.com.ar/el-poder-del-ahora-de-eckhart-tolle-editorial-grijalbo-2012/p/MLA20751386#polycard_client=search-nordic&searchVariation=MLA20751386&position=4&search_layout=stack&type=product&tracking_id=79940441-775c-4e59-8fcd-bae08249d44e&wid=MLA1446807699&sid=search
   usa: https://www.amazon.com/-/es/Eckhart-Tolle/dp/8484452069
 
