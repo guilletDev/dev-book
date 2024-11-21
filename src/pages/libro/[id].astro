@@ -27,15 +27,15 @@ const {Content} = await render(book)
 ---
 
 <Layout title={`${title} Dev-book`}>
-    <section class="flex gap-12 ">
+    <section class="flex gap-10 ">
         <aside class="flex flex-col items-center gap-4">
-            <a href="/" class="hover:underline opacity-70"> ⬅️  volver atrás</a>
-            <img transition:name={`img-${slug}`} class="rounded w-72 h-auto" src={`/${img}`} alt={title}>
+            <a href="/" class="hover:underline transition hover:scale-110 opacity-70 text-sm w-[100px]"> ⬅️  volver atrás</a>
+            <img transition:name={`img-${slug}`} class="rounded w-72 " src={`/${img}`} alt={title}>
             <!-- enlace para comprar -->
         </aside>
         <main class="max-w-3xl">
-            <h1 transition:name={`title-${slug}`} class="text-4xl font-bold mb-4">{title}</h1>
-            <div class="prose prose-invert">
+            <h1 transition:name={`title-${slug}`} class="text-4xl font-bold mb-4  ">{title}</h1>
+            <div class="prose prose-invert " >
                 <Content />
             </div>
             
